@@ -1,0 +1,10 @@
+version: "3.3"
+services:
+  simulator:
+    build: .
+    volumes:
+      - .:/src/
+    command: /bin/bash -c "python3 main.py"
+    tty: true
+    user: root
+    
