@@ -9,11 +9,20 @@ FlytApp, is a webapp  designed for the precise detection of intruders within dro
 * License
 
 # Tech Stack 
-
-
-
-
-
+* Programming Languages:
+    * Python: Used for the core application logic and machine learning components.
+* Machine Learning and Computer Vision Libraries:
+    * OpenCV: Used for image and video processing.
+    * YOLO (You Only Look Once): The YOLOv8 model for object detection.
+    * Ultralytics: A framework for computer vision tasks, including object detection.
+* User Interface:
+    * HTML, CSS: For building the frontend interface.
+* Backend and Server:
+    * Flask: A micro web framework for Python.
+* Web Frameworks and APIs:
+    * Google Maps API: Integrated for location and mapping features.
+* IDE Used: Google Colab, VSCode
+  
 # Dataset Description
 * Dataset Name: NTUT 4K Drone Photo Dataset for Human Detection
 * Source: Kaggle
