@@ -22,6 +22,15 @@ FlytApp, is a webapp  designed for the precise detection of intruders within dro
 * APIs:
     * Google Maps API: Integrated for location and mapping features.
 * IDE Used: Google Colab, VSCode
+
+# Features
+FlytApp offers the following key features:
+
+* Intruder Detection: FlytApp leverages the YOLOv8 model to accurately detect intruders within drone footage.
+* Real-Time Alerts: FlytApp provides real-time alerts, ensuring immediate notification of intruder detection events.
+* User-Friendly Interface: FlytApp offers an intuitive and user-friendly interface, simplifying navigation and configuration for users.
+* Google Maps Integration: FlytApp has seamlessly integrated Google Maps for enhanced performance, allowing for precise location tracking and mapping 
+  features in real-time intruder detection scenarios. This integration enhances the application's capabilities for better situational awareness.
   
 # Dataset Description
 * Dataset Name: NTUT 4K Drone Photo Dataset for Human Detection
