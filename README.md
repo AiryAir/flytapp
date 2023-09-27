@@ -1,5 +1,5 @@
 # FlytApp
-FlytApp, a sophisticated application meticulously designed for the precise detection of intruders within drone footage, harnesses the formidable capabilities of the YOLOv8 model. This comprehensive documentation serves as your authoritative guide to harnessing the full potential of FlytApp, ensuring its effective utilization in your security and surveillance endeavors.
+FlytApp, is a webapp  designed for the precise detection of intruders within drone footage, using the capabilities of the YOLOv8 model. This documentation serves as a guide to using FlytApp, ensuring its effective utilization.
 
 # Index
 * Tech Stack
