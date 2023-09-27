@@ -19,7 +19,7 @@ FlytApp, is a webapp  designed for the precise detection of intruders within dro
     * HTML, CSS: For building the frontend interface.
 * Backend and Server:
     * Flask: A micro web framework for Python.
-* Web Frameworks and APIs:
+* APIs:
     * Google Maps API: Integrated for location and mapping features.
 * IDE Used: Google Colab, VSCode
   
