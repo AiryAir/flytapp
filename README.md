@@ -52,8 +52,8 @@ FlytApp offers the following key features:
     effectively identify intruders within drone footage.
     
 # Training Results
-YOLOv8n summary (fused): 168 layers, 3005843 parameters, 0 gradients
-Speed: 7.5ms preprocess, 3.9ms inference, 0.0ms loss, 0.9ms postprocess per image
+* YOLOv8n summary (fused): 168 layers, 3005843 parameters, 0 gradients
+* Speed: 7.5ms preprocess, 3.9ms inference, 0.0ms loss, 0.9ms postprocess per image
 
 # Authors
 * [@prathamtalekar](https://www.linkedin.com/in/air72/)
